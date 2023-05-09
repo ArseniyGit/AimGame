@@ -1,0 +1,2 @@
+# AimGame
+Create interesting aimgame
